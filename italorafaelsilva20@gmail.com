@@ -46,11 +46,16 @@ Página de Cadastro: Para essa tela, iniciei o meu servidor com o XAMPP e criei 
 Ela é necessária para armazenar os dados do usuário e assim podendo usar as credenciais registradas para fazer o login.
 
 Banco de Dados / tabela usuarios.
+
 ![banco de dados](https://user-images.githubusercontent.com/98391876/216884336-bc2b4073-39d7-41eb-927f-dd96ec40d578.png)
 
 Tela de Cadastro.
 
+https://github.com/ItaloRafaelSilva/Processo/blob/main/assets/tela%20de%20cadastro%20usuario.png?raw=true
+
 Usuario Cadastrado no BD.
+
+https://github.com/ItaloRafaelSilva/Processo/blob/main/assets/usuario%20registrado%20com%20sucesso..png?raw=true
 
 Ao realizar o cadastro com sucesso, será redirecionado para a tela de login automaticamente, assim podendo logar com a suas credencias. Vale ressaltar caso esqueça
 do seus dados não ira conseguir logar.
@@ -59,31 +64,48 @@ Observação: Não tem hierarquia de e-mail, ao acessar podera editar, excluir,i
 
 Tela de Login.
 
+https://github.com/ItaloRafaelSilva/Processo/blob/main/assets/login.png?raw=true
 
 Tela Home.
+
+https://github.com/ItaloRafaelSilva/Processo/blob/main/assets/tela%20home%20.png?raw=true
 
 Na tela "HOME" vera todos os usuarios vinculado ao sistema caso tenha e também algumas funções como excluir, editar, incluir e visualizar.
 
 Filtro de usuario na tela Home.
 
+https://github.com/ItaloRafaelSilva/Processo/blob/main/assets/tela%20home%20.png?raw=true
+
 Pode editar as informações do usuario.
 Editar usuario.
+
+https://github.com/ItaloRafaelSilva/Processo/blob/main/assets/Editar%20usuario.png?raw=true
 
 Pode adicionar novos usuarios dentro da pagina home.
 Incluir usuario dentro da pagina Home.
 
+https://github.com/ItaloRafaelSilva/Processo/blob/main/assets/tela%20de%20cadastro%20usuario.png?raw=true
+
 Ira excluir o usuario junto com o seus respectivos endereços.
 Excluir usuario.
+
+https://github.com/ItaloRafaelSilva/Processo/blob/main/assets/excluir.png?raw=true
 
 Nessa pagina podera ver todos os endereços vinculado ao cliente.
 Visualizar.
 
+https://github.com/ItaloRafaelSilva/Processo/blob/main/assets/visualizar.png?raw=true
 
 Para adicionar endereco, utilizei uma API para fazer a busca pro CEP reais.
 Adicionar Endereço.
 
+https://github.com/ItaloRafaelSilva/Processo/blob/main/assets/endere%C3%A7o.png
+
 tabela de endeços no BD / vinculei o ID da tabela usuario com o usuario_ID atráves da chave estrangeira e restritiva.
 
+https://github.com/ItaloRafaelSilva/Processo/blob/main/assets/endereco%20bd.png?raw=true
 
+Feito um video da utilização.
 
+https://drive.google.com/file/d/15Mq468SK1XeqByxEqRiIekcyhMdxyjol/view?usp=sharing
 
