@@ -39,12 +39,14 @@ Após uma visão do projeto, comecei com a pagina inicial bem simples.
 
 Página Inicial: Antes de ir para a tela de Login é necessário criar uma conta no botão "Cadastra-se".
 
-https://github.com/ItaloRafaelSilva/Curso-DevClub/blob/main/Processo%20Seletivo/tela%20inicial.png
+![tela inicial](https://user-images.githubusercontent.com/98391876/216884297-c4377887-e4fe-446b-8b96-2585f3e8b917.png)
+
 
 Página de Cadastro: Para essa tela, iniciei o meu servidor com o XAMPP e criei o Banco De Dados nele eu fiz a primeira tabela "usuarios".
 Ela é necessária para armazenar os dados do usuário e assim podendo usar as credenciais registradas para fazer o login.
 
 Banco de Dados / tabela usuarios.
+![banco de dados](https://user-images.githubusercontent.com/98391876/216884336-bc2b4073-39d7-41eb-927f-dd96ec40d578.png)
 
 Tela de Cadastro.
 
