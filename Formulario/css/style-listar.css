@@ -1,0 +1,112 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: Poppins, sans-serif !important;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, rgb(20, 147, 220), rgb(17, 54, 71));
+}
+
+
+.ifdYOx {
+    padding: 1rem 1rem 0.5rem 1.5rem;
+    margin-bottom: 0.5rem;
+    background-color: white;
+    border-width: 0.0625rem 0.0625rem 0.0625rem 0.25rem;
+    border-style: solid;
+    border-color: rgb(222, 224, 228);
+    max-height: 100rem;
+}
+
+.bnerCw {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+    margin: 0.25rem 0px;
+}
+
+.hTEyKK {
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    padding: 1rem;
+    background: rgb(255, 255, 255);
+    border-radius: 1rem;
+    position: absolute;
+    right: 15%;
+    top: 80%;
+    transform: translateY(-50%);
+}
+
+.card {
+    background-color: white ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-left: 0%;
+}
+
+.card-header {
+    background-color: #f2f2f2;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: center;
+    padding: 1rem;  
+}
+
+.card-header h3 {
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+}
+
+.card-body {
+    padding: 1rem;
+    display: flex;
+    left: 0%;
+    flex-direction: column;
+    align-items: left;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+form label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+form input[type="text"] {
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+form input[type="text"][disabled] {
+    background-color: #f2f2f2;
+}
+
+#button-voltar{
+    background-color: white;
+    width: 10%;
+    border: none;
+    padding: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-bottom: 3%;
+}

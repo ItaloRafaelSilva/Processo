@@ -1,0 +1,52 @@
+.button-voltar{
+    background-image: linear-gradient(to right,rgb(0, 92, 197), rgb(90, 20, 220));
+    width: 5%;
+    border: none;
+    padding: 15px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+.button-voltar:hover{
+    background-color: deepskyblue;
+    cursor: pointer;
+}
+
+.button-endereco{
+    background-image: linear-gradient(to right,rgb(0, 92, 197), rgb(90, 20, 220));
+    width: 10%;
+    border: none;
+    padding: 15px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+    .box-endereco1{
+        color: white;
+        position: absolute;
+        top: 10%;
+        left: 10%;
+        transform: translate(-50%,-50%);
+        background-color: rgba(0, 0, 0, 0.6);
+        padding: 15px;
+        border-radius: 15px;
+        width: 20%;
+    }
+    
+    .box-endereco1 fieldset{
+        border: 3px solid dodgerblue;
+    }
+    .box-endereco1 legend{
+        border: 1px solid dodgerblue;
+        padding: 10px;
+        text-align: center;
+        background-color: dodgerblue;
+        border-radius: 8px;
+    }
+
+
+    
